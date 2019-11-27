@@ -1,4 +1,4 @@
-FROM tomcat
+FROM apache-tomcat-7.0.96
 MAINTAINER june
 
 WORKDIR  /
