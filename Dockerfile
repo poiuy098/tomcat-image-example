@@ -1,4 +1,4 @@
-FROM apache-tomcat-7.0.96
+FROM openjdk:11.0.5-jdk
 MAINTAINER june
 
 WORKDIR  /
